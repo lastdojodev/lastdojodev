@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lastdojodev
-- 👀 I’m interested in IOS/Android Development and Network Security
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in IOS/Android Development and Cybersecurity
+- 🌱 I’m currently learning Xamarin/C#
 - 💞️ I’m looking to collaborate on security tools
 - 📫 How to reach me lastdojodev at gmail
 
